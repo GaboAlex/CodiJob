@@ -1,0 +1,24 @@
+D:\Gian Carlo\semana 10\CodiJobService\Application\bin\Debug\netcoreapp2.1\Application.deps.json
+D:\Gian Carlo\semana 10\CodiJobService\Application\bin\Debug\netcoreapp2.1\Application.dll
+D:\Gian Carlo\semana 10\CodiJobService\Application\obj\Debug\netcoreapp2.1\Application.csproj.CoreCompileInputs.cache
+D:\Gian Carlo\semana 10\CodiJobService\Application\obj\Debug\netcoreapp2.1\Application.AssemblyInfoInputs.cache
+D:\Gian Carlo\semana 10\CodiJobService\Application\obj\Debug\netcoreapp2.1\Application.AssemblyInfo.cs
+D:\Gian Carlo\semana 10\CodiJobService\Application\bin\Debug\netcoreapp2.1\Application.pdb
+D:\Gian Carlo\semana 10\CodiJobService\Application\obj\Debug\netcoreapp2.1\Application.csprojAssemblyReference.cache
+D:\Gian Carlo\semana 10\CodiJobService\Application\obj\Debug\netcoreapp2.1\Application.csproj.CopyComplete
+D:\Gian Carlo\semana 10\CodiJobService\Application\obj\Debug\netcoreapp2.1\Application.dll
+D:\Gian Carlo\semana 10\CodiJobService\Application\obj\Debug\netcoreapp2.1\Application.pdb
+D:\Gian Carlo\semana 10\CodiJobService\Application\bin\Debug\netcoreapp2.1\Domain.dll
+D:\Gian Carlo\semana 10\CodiJobService\Application\bin\Debug\netcoreapp2.1\Domain.pdb
+E:\CodiJobService\Application\bin\Debug\netcoreapp2.1\Application.deps.json
+E:\CodiJobService\Application\bin\Debug\netcoreapp2.1\Application.dll
+E:\CodiJobService\Application\bin\Debug\netcoreapp2.1\Application.pdb
+E:\CodiJobService\Application\bin\Debug\netcoreapp2.1\Domain.dll
+E:\CodiJobService\Application\bin\Debug\netcoreapp2.1\Domain.pdb
+E:\CodiJobService\Application\obj\Debug\netcoreapp2.1\Application.csprojAssemblyReference.cache
+E:\CodiJobService\Application\obj\Debug\netcoreapp2.1\Application.csproj.CoreCompileInputs.cache
+E:\CodiJobService\Application\obj\Debug\netcoreapp2.1\Application.AssemblyInfoInputs.cache
+E:\CodiJobService\Application\obj\Debug\netcoreapp2.1\Application.AssemblyInfo.cs
+E:\CodiJobService\Application\obj\Debug\netcoreapp2.1\Application.csproj.CopyComplete
+E:\CodiJobService\Application\obj\Debug\netcoreapp2.1\Application.dll
+E:\CodiJobService\Application\obj\Debug\netcoreapp2.1\Application.pdb
