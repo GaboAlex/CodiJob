@@ -1,0 +1,69 @@
+C:\Users\Tecsup\source\repos\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\CodiJobService.deps.json
+C:\Users\Tecsup\source\repos\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\CodiJobService.runtimeconfig.json
+C:\Users\Tecsup\source\repos\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\CodiJobService.runtimeconfig.dev.json
+C:\Users\Tecsup\source\repos\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\CodiJobService.dll
+C:\Users\Tecsup\source\repos\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.csprojAssemblyReference.cache
+C:\Users\Tecsup\source\repos\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.csproj.CoreCompileInputs.cache
+C:\Users\Tecsup\source\repos\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.RazorAssemblyInfo.cache
+C:\Users\Tecsup\source\repos\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.RazorAssemblyInfo.cs
+C:\Users\Tecsup\source\repos\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.AssemblyInfoInputs.cache
+C:\Users\Tecsup\source\repos\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.AssemblyInfo.cs
+C:\Users\Tecsup\source\repos\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.RazorTargetAssemblyInfo.cache
+C:\Users\Tecsup\source\repos\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\CodiJobService.pdb
+C:\Users\Tecsup\source\repos\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.dll
+C:\Users\Tecsup\source\repos\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.pdb
+E:\CodiGo-2018\Back End\Semana 10\Dia 4\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\CodiJobService.deps.json
+E:\CodiGo-2018\Back End\Semana 10\Dia 4\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\CodiJobService.runtimeconfig.json
+E:\CodiGo-2018\Back End\Semana 10\Dia 4\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\CodiJobService.runtimeconfig.dev.json
+E:\CodiGo-2018\Back End\Semana 10\Dia 4\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\CodiJobService.dll
+E:\CodiGo-2018\Back End\Semana 10\Dia 4\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\CodiJobService.pdb
+E:\CodiGo-2018\Back End\Semana 10\Dia 4\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.csprojAssemblyReference.cache
+E:\CodiGo-2018\Back End\Semana 10\Dia 4\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.csproj.CoreCompileInputs.cache
+E:\CodiGo-2018\Back End\Semana 10\Dia 4\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.RazorAssemblyInfo.cache
+E:\CodiGo-2018\Back End\Semana 10\Dia 4\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.RazorAssemblyInfo.cs
+E:\CodiGo-2018\Back End\Semana 10\Dia 4\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.AssemblyInfoInputs.cache
+E:\CodiGo-2018\Back End\Semana 10\Dia 4\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.AssemblyInfo.cs
+E:\CodiGo-2018\Back End\Semana 10\Dia 4\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.RazorTargetAssemblyInfo.cache
+E:\CodiGo-2018\Back End\Semana 10\Dia 4\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.dll
+E:\CodiGo-2018\Back End\Semana 10\Dia 4\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.pdb
+D:\Gian Carlo\semana 10\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\CodiJobService.deps.json
+D:\Gian Carlo\semana 10\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\CodiJobService.runtimeconfig.json
+D:\Gian Carlo\semana 10\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\CodiJobService.runtimeconfig.dev.json
+D:\Gian Carlo\semana 10\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\CodiJobService.dll
+D:\Gian Carlo\semana 10\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\CodiJobService.pdb
+D:\Gian Carlo\semana 10\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.csprojAssemblyReference.cache
+D:\Gian Carlo\semana 10\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.csproj.CoreCompileInputs.cache
+D:\Gian Carlo\semana 10\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.RazorAssemblyInfo.cache
+D:\Gian Carlo\semana 10\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.RazorAssemblyInfo.cs
+D:\Gian Carlo\semana 10\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.AssemblyInfoInputs.cache
+D:\Gian Carlo\semana 10\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.AssemblyInfo.cs
+D:\Gian Carlo\semana 10\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.RazorTargetAssemblyInfo.cache
+D:\Gian Carlo\semana 10\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.dll
+D:\Gian Carlo\semana 10\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.pdb
+D:\Gian Carlo\semana 10\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\Domain.dll
+D:\Gian Carlo\semana 10\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\Domain.pdb
+D:\Gian Carlo\semana 10\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.csproj.CopyComplete
+D:\Gian Carlo\semana 10\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\Application.dll
+D:\Gian Carlo\semana 10\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\Application.pdb
+D:\Gian Carlo\semana 10\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\Infraestructure.dll
+D:\Gian Carlo\semana 10\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\Infraestructure.pdb
+E:\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.csprojAssemblyReference.cache
+E:\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.csproj.CoreCompileInputs.cache
+E:\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.AssemblyInfoInputs.cache
+E:\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.AssemblyInfo.cs
+E:\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\CodiJobService.deps.json
+E:\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\CodiJobService.runtimeconfig.json
+E:\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\CodiJobService.runtimeconfig.dev.json
+E:\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\CodiJobService.dll
+E:\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\Application.dll
+E:\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\Domain.dll
+E:\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\Infraestructure.dll
+E:\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\Infraestructure.Transversal.dll
+E:\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\Application.pdb
+E:\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\Domain.pdb
+E:\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\Infraestructure.Transversal.pdb
+E:\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\Infraestructure.pdb
+E:\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.csproj.CopyComplete
+E:\CodiJobService\CodiJobService\bin\Debug\netcoreapp2.1\CodiJobService.pdb
+E:\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.dll
+E:\CodiJobService\CodiJobService\obj\Debug\netcoreapp2.1\CodiJobService.pdb
