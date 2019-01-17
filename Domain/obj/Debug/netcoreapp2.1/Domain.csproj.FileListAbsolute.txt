@@ -1,0 +1,18 @@
+D:\Gian Carlo\semana 10\CodiJobService\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
+D:\Gian Carlo\semana 10\CodiJobService\Domain\bin\Debug\netcoreapp2.1\Domain.dll
+D:\Gian Carlo\semana 10\CodiJobService\Domain\bin\Debug\netcoreapp2.1\Domain.pdb
+D:\Gian Carlo\semana 10\CodiJobService\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
+D:\Gian Carlo\semana 10\CodiJobService\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+D:\Gian Carlo\semana 10\CodiJobService\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
+D:\Gian Carlo\semana 10\CodiJobService\Domain\obj\Debug\netcoreapp2.1\Domain.dll
+D:\Gian Carlo\semana 10\CodiJobService\Domain\obj\Debug\netcoreapp2.1\Domain.pdb
+D:\Gian Carlo\semana 10\CodiJobService\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
+E:\CodiJobService\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
+E:\CodiJobService\Domain\bin\Debug\netcoreapp2.1\Domain.dll
+E:\CodiJobService\Domain\bin\Debug\netcoreapp2.1\Domain.pdb
+E:\CodiJobService\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
+E:\CodiJobService\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+E:\CodiJobService\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
+E:\CodiJobService\Domain\obj\Debug\netcoreapp2.1\Domain.dll
+E:\CodiJobService\Domain\obj\Debug\netcoreapp2.1\Domain.pdb
+E:\CodiJobService\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
