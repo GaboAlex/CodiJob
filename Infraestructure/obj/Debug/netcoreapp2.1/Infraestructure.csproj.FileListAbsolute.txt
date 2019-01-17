@@ -1,0 +1,26 @@
+D:\Gian Carlo\semana 10\CodiJobService\Infraestructure\bin\Debug\netcoreapp2.1\Infraestructure.deps.json
+D:\Gian Carlo\semana 10\CodiJobService\Infraestructure\bin\Debug\netcoreapp2.1\Infraestructure.dll
+D:\Gian Carlo\semana 10\CodiJobService\Infraestructure\bin\Debug\netcoreapp2.1\Infraestructure.pdb
+D:\Gian Carlo\semana 10\CodiJobService\Infraestructure\bin\Debug\netcoreapp2.1\Domain.dll
+D:\Gian Carlo\semana 10\CodiJobService\Infraestructure\bin\Debug\netcoreapp2.1\Domain.pdb
+D:\Gian Carlo\semana 10\CodiJobService\Infraestructure\obj\Debug\netcoreapp2.1\Infraestructure.csprojAssemblyReference.cache
+D:\Gian Carlo\semana 10\CodiJobService\Infraestructure\obj\Debug\netcoreapp2.1\Infraestructure.csproj.CoreCompileInputs.cache
+D:\Gian Carlo\semana 10\CodiJobService\Infraestructure\obj\Debug\netcoreapp2.1\Infraestructure.AssemblyInfoInputs.cache
+D:\Gian Carlo\semana 10\CodiJobService\Infraestructure\obj\Debug\netcoreapp2.1\Infraestructure.AssemblyInfo.cs
+D:\Gian Carlo\semana 10\CodiJobService\Infraestructure\obj\Debug\netcoreapp2.1\Infraestructure.csproj.CopyComplete
+D:\Gian Carlo\semana 10\CodiJobService\Infraestructure\obj\Debug\netcoreapp2.1\Infraestructure.dll
+D:\Gian Carlo\semana 10\CodiJobService\Infraestructure\obj\Debug\netcoreapp2.1\Infraestructure.pdb
+E:\CodiJobService\Infraestructure\bin\Debug\netcoreapp2.1\Infraestructure.deps.json
+E:\CodiJobService\Infraestructure\bin\Debug\netcoreapp2.1\Infraestructure.dll
+E:\CodiJobService\Infraestructure\bin\Debug\netcoreapp2.1\Infraestructure.pdb
+E:\CodiJobService\Infraestructure\bin\Debug\netcoreapp2.1\Domain.dll
+E:\CodiJobService\Infraestructure\bin\Debug\netcoreapp2.1\Domain.pdb
+E:\CodiJobService\Infraestructure\obj\Debug\netcoreapp2.1\Infraestructure.csprojAssemblyReference.cache
+E:\CodiJobService\Infraestructure\obj\Debug\netcoreapp2.1\Infraestructure.csproj.CoreCompileInputs.cache
+E:\CodiJobService\Infraestructure\obj\Debug\netcoreapp2.1\Infraestructure.AssemblyInfoInputs.cache
+E:\CodiJobService\Infraestructure\obj\Debug\netcoreapp2.1\Infraestructure.AssemblyInfo.cs
+E:\CodiJobService\Infraestructure\obj\Debug\netcoreapp2.1\Infraestructure.csproj.CopyComplete
+E:\CodiJobService\Infraestructure\obj\Debug\netcoreapp2.1\Infraestructure.dll
+E:\CodiJobService\Infraestructure\obj\Debug\netcoreapp2.1\Infraestructure.pdb
+E:\CodiJobService\Infraestructure\bin\Debug\netcoreapp2.1\Infraestructure.runtimeconfig.json
+E:\CodiJobService\Infraestructure\bin\Debug\netcoreapp2.1\Infraestructure.runtimeconfig.dev.json

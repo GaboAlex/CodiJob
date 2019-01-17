@@ -1,0 +1,14 @@
+E:\CodiJobService\Infraestructure.Transversal\bin\Debug\netcoreapp2.1\Infraestructure.Transversal.deps.json
+E:\CodiJobService\Infraestructure.Transversal\bin\Debug\netcoreapp2.1\Infraestructure.Transversal.dll
+E:\CodiJobService\Infraestructure.Transversal\bin\Debug\netcoreapp2.1\Infraestructure.Transversal.pdb
+E:\CodiJobService\Infraestructure.Transversal\bin\Debug\netcoreapp2.1\Application.dll
+E:\CodiJobService\Infraestructure.Transversal\bin\Debug\netcoreapp2.1\Domain.dll
+E:\CodiJobService\Infraestructure.Transversal\bin\Debug\netcoreapp2.1\Application.pdb
+E:\CodiJobService\Infraestructure.Transversal\bin\Debug\netcoreapp2.1\Domain.pdb
+E:\CodiJobService\Infraestructure.Transversal\obj\Debug\netcoreapp2.1\Infraestructure.Transversal.csprojAssemblyReference.cache
+E:\CodiJobService\Infraestructure.Transversal\obj\Debug\netcoreapp2.1\Infraestructure.Transversal.csproj.CoreCompileInputs.cache
+E:\CodiJobService\Infraestructure.Transversal\obj\Debug\netcoreapp2.1\Infraestructure.Transversal.AssemblyInfoInputs.cache
+E:\CodiJobService\Infraestructure.Transversal\obj\Debug\netcoreapp2.1\Infraestructure.Transversal.AssemblyInfo.cs
+E:\CodiJobService\Infraestructure.Transversal\obj\Debug\netcoreapp2.1\Infraestructure.Transversal.csproj.CopyComplete
+E:\CodiJobService\Infraestructure.Transversal\obj\Debug\netcoreapp2.1\Infraestructure.Transversal.dll
+E:\CodiJobService\Infraestructure.Transversal\obj\Debug\netcoreapp2.1\Infraestructure.Transversal.pdb
